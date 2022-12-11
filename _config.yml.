@@ -1,1 +1,10 @@
+# Site settings
+title: Der Eingiesser
+#email:
+description: >- 
+  Eingiessen as a service
+
+# Build settings
+markdown: kramdown
+
 theme: time-machine
