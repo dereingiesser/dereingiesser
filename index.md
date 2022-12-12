@@ -25,3 +25,11 @@ Um nicht nur in einer teuren Stadt wie Züri grade so zu überleben, sondern auc
 ![Alt-Text](/resources/einschenken2.jpg)
 
 
+## Gäste sagen über mich
+
+
+>"Meine Tischdecke blieb trocken." 
+
+>"Wenn Friedrich einschenkt, ist egal ob das Glas halb voll oder halb leer ist."
+
+>"Ich kann mich nicht erinnern, selbst jemals so präzise serviert zu haben!" - Roger Federer 
