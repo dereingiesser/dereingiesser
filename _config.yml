@@ -1,8 +1,9 @@
 # Site settings
-title: Der Iihschenker
+title: Der Zürcher Iihschenker
 #email:
 description: >- 
-  Iihschenken as a service
+  IaaS: Iihschenken as a Service: 
+  Buchen sie mich für ihr Event und ihr Getränk. 
 
 # Build settings
 markdown: kramdown

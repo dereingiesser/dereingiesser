@@ -2,9 +2,7 @@
 
 Der erste professionelle Iihschenker z' Züri! Ob Weisswein, Rotwein, Rosé, Lager, IPA oder Weissbier, ob einschenken, einschütten, nachfüllen oder auffüllen - keine Disziplin ist mir zu schwer. 
 
-In einem Auslandsaufenthalt habe ich sogar das Einschenken des Singapur Slings gemeisstert.
-
-Buchen sie mich für ihr Event und ihr Getränk. 
+In einem Auslandsaufenthalt habe ich sogar das Einschenken des Singapur Slings gemeistert. Auf dem europäischen Festland bin ich damit einer von sieben Einschenkern, die alle klassischen Einschenktechniken beherrschen.  
 
 Meine Garantie: Ich verschütte nichts!
 
@@ -14,10 +12,10 @@ Um nicht nur in einer teuren Stadt wie Züri grade so zu überleben, sondern auc
 
 ## Motto
 
- Wer Verschüttet gehört verschütt!
+ Wer verschüttet gehört verschütt!
 
 
-## Flex
+## Galerie
 
 ![Alt-Text](/resources/einschenken1.jpg)
 
@@ -25,11 +23,10 @@ Um nicht nur in einer teuren Stadt wie Züri grade so zu überleben, sondern auc
 ![Alt-Text](/resources/einschenken2.jpg)
 
 
-## Gäste sagen über mich
+## Kunden sagen über mich
 
+>"Wenn Friedrich eingeschenkt hat, ist philosophisch egal ob das Glas halb voll oder halb leer ist." - Markus Lanz
 
->"Meine Tischdecke blieb trocken." 
-
->"Wenn Friedrich einschenkt, ist egal ob das Glas halb voll oder halb leer ist."
+>"Seitdem Friedrich für uns einschenkt, trinken wir Durstlöscher nur noch aus Gläsern." - Dani, Gustav, Zachi und Paul
 
 >"Ich kann mich nicht erinnern, selbst jemals so präzise serviert zu haben!" - Roger Federer 
